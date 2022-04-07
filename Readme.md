@@ -21,6 +21,12 @@ como demonstrado nas imagens a seguir o gerador de funções vai estar conectado
 
 <img width="494" alt="image" src="https://user-images.githubusercontent.com/101206099/162277705-7041bf8a-e7f9-4dce-a03b-e771b4e05b7f.png">
 
+-Acionamento da aquisição de dados:
+
+Para que os dados sejam coletados será necessário o acionamento do botão, que ao clicar irá possibilitar a conversão dos dados e clicando novamente interrompe aquisição. Abaixo temos o diagrama que define a porta de comunicação do botão.
+
+<img width="578" alt="image" src="https://user-images.githubusercontent.com/101206099/162285063-9daaf75e-4ac1-41ab-9312-3e1085748f6e.png">
+
 
 ## Começando um novo projeto:
 
