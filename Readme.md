@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________________
 ## Diagrama do experimento:
-<img width="707" alt="image" src="https://user-images.githubusercontent.com/101206099/162263943-0e3f3ed7-bb28-4048-803d-cbc18c18c92c.png">
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/101206099/196711829-c977f13e-3def-4f6d-9f1b-e80a8c690661.png">
 
 
 ## Descrição do experimento:
